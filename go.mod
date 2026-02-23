@@ -1,4 +1,4 @@
-module github.com/ericvolp12/awair-local-prom-exporter
+module github.com/mchaker/awair-local-prom-exporter
 
 go 1.18
 
