@@ -7,7 +7,7 @@ It's a Prometheus Exporter that talks to a local Awair device over its local JSO
 Install with the Go CLI or by downloading a precompiled binary from the Releases page.
 
 ```shell
-$ go install github.com/ericvolp12/awair-local-prom-exporter@v0.0.4
+$ go install github.com/mchaker/awair-local-prom-exporter@v0.0.1
 ```
 
 Run the binary with default arguments or provide your own:
